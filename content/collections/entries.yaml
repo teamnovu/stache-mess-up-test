@@ -1,0 +1,20 @@
+title: Entries
+revisions: false
+date: true
+date_behavior:
+  past: public
+  future: private
+structure:
+  root: false
+  max_depth: 1
+  tree:
+    -
+      entry: aa63a738-df5a-4133-aadb-d5bb976453bb
+    -
+      entry: 38af55ef-7d5b-4a10-9c6f-8570a28741d0
+    -
+      entry: 4562cb1b-60d4-4a51-9c8f-6f8ddd7788da
+    -
+      entry: e5412b2c-3c84-4f13-bed4-8c748831c1ca
+    -
+      entry: 4075574a-e7a4-46db-b3e8-2e6c95f1ece1
